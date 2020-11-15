@@ -17,6 +17,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.11.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.11.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -29,11 +35,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605419949981</updated>
-      <workItem from="1605419956098" duration="279000" />
+      <workItem from="1605419956098" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1771" height="281" key="GridCell.Tab.0.bottom" timestamp="1605420411088">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1771" height="281" key="GridCell.Tab.0.bottom/0.23.1792.1029@0.23.1792.1029" timestamp="1605420411088" />
+    <state width="1771" height="281" key="GridCell.Tab.0.center" timestamp="1605420411088">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1771" height="281" key="GridCell.Tab.0.center/0.23.1792.1029@0.23.1792.1029" timestamp="1605420411088" />
+    <state width="1771" height="281" key="GridCell.Tab.0.left" timestamp="1605420411087">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1771" height="281" key="GridCell.Tab.0.left/0.23.1792.1029@0.23.1792.1029" timestamp="1605420411087" />
+    <state width="1771" height="281" key="GridCell.Tab.0.right" timestamp="1605420411088">
+      <screen x="0" y="23" width="1792" height="1029" />
+    </state>
+    <state width="1771" height="281" key="GridCell.Tab.0.right/0.23.1792.1029@0.23.1792.1029" timestamp="1605420411088" />
   </component>
 </project>
